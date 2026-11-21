@@ -11,7 +11,7 @@
 
 Option A: with Git
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
+git clone this repo.git
 cd <your-repo-name>
 ```
 
@@ -35,4 +35,4 @@ Go to **http://127.0.0.1:5000**
 
 ## Author
 
-Made by **[Your Name]** as a college project.
+Made by **ANJALI]** as a college project.
