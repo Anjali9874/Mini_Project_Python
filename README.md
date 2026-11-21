@@ -35,4 +35,4 @@ Go to **http://127.0.0.1:5000**
 
 ## Author
 
-Made by **ANJALI]** as a college project.
+Made by **ANJALI** as a college project.
